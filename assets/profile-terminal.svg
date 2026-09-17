@@ -9,10 +9,6 @@
         0%, 100% { opacity: 1; filter: drop-shadow(0 0 4px #00ffcc); }
         50% { opacity: 0.4; filter: drop-shadow(0 0 1px #00ffcc); }
       }
-      @keyframes scan {
-        0% { transform: translateY(0); }
-        100% { transform: translateY(240px); }
-      }
       .mono {
         font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
       }
@@ -21,9 +17,6 @@
       }
       .status-dot {
         animation: pulse 2s infinite ease-in-out;
-      }
-      .scanline {
-        animation: scan 6s linear infinite;
       }
     </style>
     <linearGradient id="cyber-border" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -57,9 +50,8 @@
   <text x="790" y="24" fill="#00ffcc" class="mono" font-size="11" font-weight="700" letter-spacing="1.5">ONLINE</text>
 
   <!-- Interior Body -->
-  <!-- Developer Name -->
+  <!-- Developer Name (Only JAIDEEP, Botla removed) -->
   <text x="42" y="86" fill="#ffffff" class="mono" font-size="34" font-weight="800" letter-spacing="3">JAIDEEP</text>
-  <text x="210" y="86" fill="#00ffcc" class="mono" font-size="14" font-weight="600" letter-spacing="1">/ BOTLA</text>
 
   <!-- Subtitle / Role -->
   <text x="42" y="118" fill="#8b5cf6" class="mono" font-size="13" font-weight="700" letter-spacing="2">AIML STUDENT &#8226; BUILDER &#8226; CREATIVE TECHNOLOGIST</text>

@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://count.getloli.com/get/@B-Jai12?theme=gelbooru-h" alt="Moe Counter" />
+  <img src="https://count.getloli.com/get/@B-Jai12?theme=asoul" alt="Moe Counter" />
 </p>
 
 <p align="center">
@@ -154,7 +154,7 @@
   </a>
   &nbsp;
   <a href="mailto:jaideep.botla12@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-JAIDEEP.BOTLA12@GMAIL.COM-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-JAIDEEP-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </p>
 
