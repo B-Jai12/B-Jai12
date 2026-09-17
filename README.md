@@ -2,32 +2,28 @@
   <img src="https://count.getloli.com/get/@B-Jai12?theme=gelbooru-h" alt="Moe Counter" />
 </p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24,30&height=220&section=header&text=Jaideep%20Botla&fontSize=70&fontAlignY=38&desc=B.Tech%20AIML%20Student%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Creative%20Technologist&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
-
-<br/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/B-Jai12/B-Jai12/main/assets/profile-terminal.svg" width="100%" alt="System Terminal Hero" />
+</p>
 
 **`$ whoami`**
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=A6E3A1&background=00000000&center=false&vCenter=true&width=650&height=45&lines=B.Tech+AIML+Student+%26+Builder;Building+practical+AI+%26+interactive+products;Turning+ambitious+ideas+into+real-world+code;Obsessed+with+systems%2C+3D+web+%26+great+UX">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FFCC&background=00000000&center=false&vCenter=true&width=800&height=45&lines=B.Tech+AIML+Student+%26+Systems+Builder;Building+practical+AI+engines+%26+interactive+web+products;Turning+complex+technical+ideas+into+clean+software" alt="Typing Indicator" />
 </p>
 
-> Hey there, I'm **Jaideep**. I'm a B.Tech AIML student who builds software from first principles. I love designing practical AI engines, interactive 3D web experiences, and startup concepts that solve real problems.
+> B.Tech AIML student focused on practical machine learning, interactive 3D web applications, and distributed software systems.
 > 
-> Rather than staying inside tutorial bubbles or regurgitating theory, I build products end-to-end — from data pipelines and multi-agent systems to responsive WebGL interfaces and distributed backends. If it moves fast, feels responsive, and solves an actual bottleneck, I'm building it.
+> I design and engineer products end-to-end: autonomous multi-agent pipelines, OCR-driven document intelligence, real-time multiplayer engines, and WebGL environments. Focused on building tools that solve genuine bottlenecks with high responsiveness and clean architecture.
 
 <br/>
 
 **`$ cat focus.log`**
 
 ```bash
-[+] CURRENTLY BUILDING : Scalable multi-agent systems & interactive real-time experiences
-[+] EXPLORING          : Computer vision in healthcare, 3D WebGL (Three.js), distributed queues
-[+] PHILOSOPHY         : Build tools people actually touch • Ship early • Relentless craft
+[+] CURRENTLY BUILDING : Scalable multi-agent systems & real-time interactive experiences
+[+] EXPLORING          : Computer vision in healthcare, WebGL spatial engines, distributed queues
+[+] PHILOSOPHY         : Build tools people actually touch · Ship early · Relentless craft
 ```
 
 <br/>
@@ -36,41 +32,41 @@
 
 <p align="left">
 
-**Languages & Core**  
-![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-1E1E2E?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-1E1E2E?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/HTML5-1E1E2E?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1E1E2E?style=for-the-badge&logo=css3&logoColor=1572B6)
+**LANGUAGES & CORE**  
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
 <br/>
 
-**AI & Machine Learning**  
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-1E1E2E?style=for-the-badge&logo=google&logoColor=8E75B2)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E1E2E?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Computer Vision](https://img.shields.io/badge/OCR_%26_Vision-1E1E2E?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Pydantic](https://img.shields.io/badge/Pydantic-1E1E2E?style=for-the-badge&logo=pydantic&logoColor=E92063)
+**AI & MACHINE LEARNING**  
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-0d1117?style=flat-square&logo=google&logoColor=8E75B2)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![OpenCV](https://img.shields.io/badge/Computer_Vision-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![Pydantic](https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=E92063)
 
 <br/>
 
-**Frontend & Interactive 3D**  
-![Next.js](https://img.shields.io/badge/Next.js-1E1E2E?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-1E1E2E?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-1E1E2E?style=for-the-badge&logo=three.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1E1E2E?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-1E1E2E?style=for-the-badge&logo=framer&logoColor=0055FF)
-![Zustand](https://img.shields.io/badge/Zustand-1E1E2E?style=for-the-badge&logo=redux&logoColor=764ABC)
+**FRONTEND & INTERACTIVE 3D**  
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=three.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=0055FF)
+![Zustand](https://img.shields.io/badge/Zustand-0d1117?style=flat-square&logo=redux&logoColor=764ABC)
 
 <br/>
 
-**Backend, Data & Infrastructure**  
-![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=for-the-badge&logo=node.js&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E2E?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-1E1E2E?style=for-the-badge&logo=prisma&logoColor=2D3748)
-![Redis](https://img.shields.io/badge/Redis-1E1E2E?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Firebase](https://img.shields.io/badge/Firebase-1E1E2E?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Turborepo](https://img.shields.io/badge/Turborepo-1E1E2E?style=for-the-badge&logo=turborepo&logoColor=EF4444)
+**BACKEND & INFRASTRUCTURE**  
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=2D3748)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Turborepo](https://img.shields.io/badge/Turborepo-0d1117?style=flat-square&logo=turborepo&logoColor=EF4444)
 
 </p>
 
@@ -81,55 +77,55 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/B-Jai12/Vidurai">Vidur AI</a></h3>
-      <p><b>AI-powered multilingual prescription reader and family healthcare companion backend.</b></p>
-      <p>Decodes handwritten doctor prescriptions using Gemini Vision OCR, translates schedules into 7 regional Indian languages with voice playback, checks polypharmacy drug interactions, and identifies low-cost generic substitutes.</p>
+      <h4>[ 01 ] &nbsp; VIDUR AI</h4>
+      <p>AI-powered prescription reader and multilingual family health companion backend.</p>
+      <p><code>FASTAPI</code> · <code>GEMINI 1.5 FLASH</code> · <code>MULTI-AGENT</code> · <code>SQLITE</code></p>
       <p>
-        <code>FastAPI</code> • <code>Gemini 1.5 Flash</code> • <code>Multi-Agent</code> • <code>SQLite</code>
+        <a href="https://github.com/B-Jai12/Vidurai"><b>[ REPOSITORY ]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>👕 <a href="https://github.com/B-Jai12/NoWorn">Noworn</a></h3>
-      <p><b>Customer-driven clothing platform transforming how apparel is created and worn.</b></p>
-      <p>Reverses the traditional retail model where brands force customers to choose from fixed collections. Customers explore inspiration, compose bespoke designs on a digital canvas, and turn their creations into real physical clothing.</p>
+      <h4>[ 02 ] &nbsp; NOWORN</h4>
+      <p>Customer-driven clothing platform transforming how apparel is designed, personalized, and produced.</p>
+      <p><code>HTML5</code> · <code>CSS3 3D TILT</code> · <code>VANILLA JS</code> · <code>FORMSPREE</code></p>
       <p>
-        <code>HTML5</code> • <code>CSS3 3D Tilt</code> • <code>Vanilla JS</code> • <code>Formspree</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/B-Jai12/drnexus">Dr.Nexus</a></h3>
-      <p><b>ML-powered bank statement intelligence and spending categorization engine.</b></p>
-      <p>Converts raw bank statements (scanned PDFs, spreadsheets, CSVs) into clean structured ledgers. Runs ML classification across cryptic payment strings and pairs with Gemini for personalized budgeting insights.</p>
-      <p>
-        <code>FastAPI</code> • <code>Next.js</code> • <code>Node.js</code> • <code>Gemini AI</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ <a href="https://github.com/B-Jai12/tensura">Tensura</a></h3>
-      <p><b>High-concurrency modular Discord community platform with a cozy anime-café aesthetic.</b></p>
-      <p>Engineered as a production TypeScript monorepo with sharded gateway processes, atomic Redis locks for spam-resistant leveling, Canvas-rendered dynamic rank cards, and PostgreSQL via Prisma.</p>
-      <p>
-        <code>Discord.js v14</code> • <code>Turborepo</code> • <code>Prisma</code> • <code>Redis</code>
+        <a href="https://github.com/B-Jai12/NoWorn"><b>[ REPOSITORY ]</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/B-Jai12/escaperoom">Escape Room</a></h3>
-      <p><b>The Codebreaker's Gauntlet — 3D multi-team cybersecurity competition engine.</b></p>
-      <p>Tournament platform where teams navigate a 3D cyberpunk corridor powered by Three.js to solve 18 cryptographic, binary, and exploit puzzles across 3 timed rounds with live Supabase leaderboard sync.</p>
+      <h4>[ 03 ] &nbsp; DR.NEXUS</h4>
+      <p>Machine learning financial statement intelligence and automated transaction classification engine.</p>
+      <p><code>FASTAPI</code> · <code>NEXT.JS 14</code> · <code>NODE.JS</code> · <code>GEMINI AI</code></p>
       <p>
-        <code>Next.js 16</code> • <code>Three.js / R3F</code> • <code>PostgreSQL</code> • <code>Framer Motion</code>
+        <a href="https://github.com/B-Jai12/drnexus"><b>[ REPOSITORY ]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🃏 <a href="https://github.com/B-Jai12/Unogame">UNO Game</a></h3>
-      <p><b>Zero-friction real-time multiplayer UNO card battle game.</b></p>
-      <p>Instant multiplayer gaming with no registration required. Generate 6-character room codes, synchronize live turns, draws, and discards via Firebase Firestore snapshots, and enjoy tactile animations with audio effects.</p>
+      <h4>[ 04 ] &nbsp; TENSURA</h4>
+      <p>High-concurrency modular Discord community engine featuring sharded gateway connections and atomic Redis caching.</p>
+      <p><code>DISCORD.JS V14</code> · <code>TURBOREPO</code> · <code>PRISMA</code> · <code>REDIS</code></p>
       <p>
-        <code>Next.js 14</code> • <code>Firebase Firestore</code> • <code>Zustand</code> • <code>Framer Motion</code>
+        <a href="https://github.com/B-Jai12/tensura"><b>[ REPOSITORY ]</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>[ 05 ] &nbsp; ESCAPE ROOM</h4>
+      <p>The Codebreaker's Gauntlet: 3D multi-team cybersecurity tournament engine with live state synchronization.</p>
+      <p><code>NEXT.JS 16</code> · <code>THREE.JS / R3F</code> · <code>POSTGRESQL</code> · <code>FRAMER MOTION</code></p>
+      <p>
+        <a href="https://github.com/B-Jai12/escaperoom"><b>[ REPOSITORY ]</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>[ 06 ] &nbsp; UNO GAME</h4>
+      <p>Zero-friction real-time multiplayer card engine with room code invites and live game table state.</p>
+      <p><code>NEXT.JS 14</code> · <code>FIREBASE FIRESTORE</code> · <code>ZUSTAND</code> · <code>FRAMER MOTION</code></p>
+      <p>
+        <a href="https://github.com/B-Jai12/Unogame"><b>[ REPOSITORY ]</b></a>
       </p>
     </td>
   </tr>
@@ -140,12 +136,12 @@
 **`$ ./stats.sh --live`**
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=B-Jai12&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CDD6F4&icon_color=F5C2E7&border_radius=8" width="49%" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=B-Jai12&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CDD6F4&text_color=CDD6F4&border_radius=8" width="49%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=B-Jai12&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=00ffcc&border_radius=6" width="49%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=B-Jai12&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=6" width="49%" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B-Jai12&theme=github-compact&bg_color=1E1E2E&color=CDD6F4&line=F5C2E7&point=F38BA8&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/B-Jai12/B-Jai12/main/assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid" />
 </p>
 
 <br/>
@@ -154,19 +150,18 @@
 
 <p align="left">
   <a href="https://github.com/B-Jai12">
-    <img src="https://img.shields.io/badge/GitHub-B--Jai12-1E1E2E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-B--JAI12-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="mailto:jaideep.botla12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jaideep.botla12@gmail.com-1E1E2E?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-JAIDEEP.BOTLA12@GMAIL.COM-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </p>
 
 <br/>
 
-<div align="center">
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,24,30&height=110&section=footer" width="100%"/>
-
-**`# consistency over intensity • building in public • 2026`**
-
-</div>
+<p align="center">
+  <sub><code>SYSTEM // B-JAI12 · ALL SYSTEMS NOMINAL · 2026</code></sub>
+</p>
